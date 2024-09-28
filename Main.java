@@ -5,6 +5,10 @@ public class Main {
         int number2;
         int number3;
 
+        number1= 10;
+        number2= 10;
+        number3= 10;
+
         
     }
 }
